@@ -1,0 +1,9 @@
+.MainArticles {
+  display: inline-grid;
+  padding-left: 5%;
+  box-sizing: border-box;
+}
+
+.image1 {
+  display: grid;
+}
